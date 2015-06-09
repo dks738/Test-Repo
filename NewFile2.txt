@@ -1,4 +1,5 @@
 #This is a new file in the Other Directory.
 
+Test a merge.
 
 #MAIN GUY BEST EDITS
